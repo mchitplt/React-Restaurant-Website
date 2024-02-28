@@ -25,7 +25,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## `ScreenShot`
-(https://github.com/mchitplt/React-Restaurant-Website/blob/18922533f4ed291a7d85de4f5b2aa1f8962c8a39/Home-Page.png)
+[Screen images left for the purpose of examining the website...](https://github.com/mchitplt/React-Restaurant-Website/blob/18922533f4ed291a7d85de4f5b2aa1f8962c8a39/Home-Page.png)
 
 
 [Screen images left for the purpose of examining the website...](https://github.com/mchitplt/React-Restaurant-Website/blob/18922533f4ed291a7d85de4f5b2aa1f8962c8a39/Menu-Page.png)
