@@ -7,12 +7,16 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 function Footer() {
   return (
     <div className='footer'>
-        <div className='socialMedia'>
-            <p> &copy; 2022 burger33.com</p>
-            <InstagramIcon/>
-            <TwitterIcon/>
-            <FacebookIcon/>
-        </div>
+      <div className='socialMedia'>
+        <p> &copy; 2024 burger.com</p>
+        <a href='https://www.instagram.com/mucahityigitpolat' target='_blank' rel="noreferrer"><InstagramIcon /></a>
+        <a href="https://www.twitter.com/mucahityigit0" target="_blank" rel="noopener noreferrer">
+          <TwitterIcon />
+        </a>
+        <a href="https://www.facebook.com/mucahit.polat.6" target="_blank" rel="noopener noreferrer">
+          <FacebookIcon />
+        </a>
+      </div>
     </div>
   )
 }
